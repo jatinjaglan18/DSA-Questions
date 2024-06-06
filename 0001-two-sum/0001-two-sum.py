@@ -1,5 +1,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        #Brute Force
+        '''
         l = []
         for i in range(len(nums)):
             
@@ -8,4 +10,17 @@ class Solution:
                     l.append(i)
                     l.append(j)
         
-        return l
+        return l'''
+        
+        #Using Hashmap
+        d = {}
+        for i in range(len(nums)):
+            z = target - nums[i]
+            
+            if z not in d.keys():
+                d[nums[i]] = d.get(nums[i], i)
+            
+            else: 
+                return [d[z], i]
+                
+            
