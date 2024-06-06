@@ -1,5 +1,9 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+        
+        
         d_s={}
         d_t={}
         
@@ -16,11 +20,11 @@ class Solution:
             else:
                 d_t[j] = 1
         
-        m = d_s
+        '''m = d_s
         if len(d_t) > len(d_s):
-            m = d_t
+            m = d_t'''
         
-        for key in m.keys():
+        for key in d_s.keys():
             if d_t.get(key) != d_s.get(key):
                 
                 return False
