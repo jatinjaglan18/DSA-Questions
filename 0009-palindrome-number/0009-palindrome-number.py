@@ -4,7 +4,7 @@ class Solution:
         r_s = ''
         for i in range(len(s)-1,-1,-1):
             r_s = r_s + s[i]
-        return s == r_s'''
+        return s == r_s
         
         rev_num = 0
         n = abs(x)
@@ -17,7 +17,10 @@ class Solution:
             rev_num = -rev_num
             return False
             
-        return rev_num == x
+        return rev_num == x '''
+        
+        x = str(x)
+        return x == x[::-1]
             
     
         
