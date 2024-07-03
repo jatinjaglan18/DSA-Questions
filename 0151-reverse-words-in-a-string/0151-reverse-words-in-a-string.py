@@ -1,15 +1,15 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        #s = s.split()
-        #s.reverse()
-        #s = ' '.join(s)
-        #return s
+        s = s.split()
+        s.reverse()
+        s = ' '.join(s)
+        return s
         '''str = ''
         for i in s:
             str = str + i + ' '
         return str[:len(str)-1]'''
         
-        #using stack
+        '''#using stack
         stack = []
         string = ''
         for i in s:
@@ -31,4 +31,4 @@ class Solution:
             string = string[1:]
         while string[len(string) -1] == ' ':
             string = string[:len(string) -1]
-        return string
+        return string'''
