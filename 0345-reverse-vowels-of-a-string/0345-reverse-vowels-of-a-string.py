@@ -4,7 +4,7 @@ class Solution:
             return s
         
         vowels = ['a','e','i','o','u','A','E','I','O','U']
-        v_l = []
+        '''v_l = []
         for i in range(len(s)):
             if s[i] in vowels:
                 v_l.append(s[i])
@@ -16,27 +16,23 @@ class Solution:
                 s = s[:i] + v_l[j] + s[i+1:]
                 j -= 1
                 
-        return s
+        return s'''
                 
-        '''string1 = ''
-        string2 = ''
         l = 0
         r = len(s)-1
-        
+        string = s
         while l < r:
             if s[l] not in vowels:
-                string1 = string1 + s[l]
                 l += 1
                 
-            elif s[r] not in vowels:
-                string2 = s[r] + string2
+            if s[r] not in vowels:
                 r -= 1
             
-            else:
-                string1 = string1 + s[r]
-                string2 = s[l] + string2
+            if l != r and s[l] in vowels and s[r] in vowels:
+                string = string[:l] + s[r] +string[l+1:r] + s[l] +string[r+1:]
                 l += 1
                 r -= 1
-                
-        string = string1 + string2   
-        return string'''
+                  
+        return string
+    
+    
