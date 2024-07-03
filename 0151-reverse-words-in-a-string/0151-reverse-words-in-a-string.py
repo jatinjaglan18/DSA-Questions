@@ -1,8 +1,11 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        s =s.split()
+        s = s.split()
         s.reverse()
-        str = ''
+        s = ' '.join(s)
+        return s
+        '''str = ''
         for i in s:
             str = str + i + ' '
-        return str[:len(str)-1]
+        return str[:len(str)-1]'''
+    
