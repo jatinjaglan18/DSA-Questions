@@ -32,7 +32,7 @@ def merSort(arr,l,r):
             
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        n = merSort(nums,0,len(nums))
+        '''n = merSort(nums,0,len(nums))
         l = 0
         r = len(nums) - 1
         ops = 0
@@ -48,4 +48,19 @@ class Solution:
             elif n[r] < num:
                 l += 1
                 
+        return ops'''
+        
+        
+        ops = 0
+        d = {}
+        for i in nums:
+            num = k - i
+            if num in d.keys() and d[num] > 0 :
+                ops += 1
+                d[num] -= 1
+            else:
+                if i in d.keys():
+                    d[i] += 1
+                else:
+                    d[i] = 1
         return ops
