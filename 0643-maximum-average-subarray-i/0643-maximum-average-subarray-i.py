@@ -3,20 +3,18 @@ class Solution:
         if len(nums) == 1:
             return nums[0]
         s = sum(nums[0:k])
-        max_avg =  s / k
-        print(max_avg)
+        
+        max_sum = s
         i = 1
         j = i + k
         while j<= len(nums):
             s = s - nums[i-1] + nums[j-1]
-            val = s / k
-            print(val)
-            if max_avg < val :
-                max_avg = val
+            if max_sum < s :
+                max_sum = s
             
             i += 1
             j += 1
-        return max_avg 
+        return max_sum / k
                 
         
             
