@@ -4,7 +4,6 @@ class Solution:
             return False
         
         elif set(word1) != set(word2):
-            
             return False
         
         else:
