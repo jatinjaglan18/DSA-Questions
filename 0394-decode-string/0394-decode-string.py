@@ -19,9 +19,9 @@ class Solution:
             else:
                 stack.append(i)
                
-        res = ''
+        '''res = ''
         while len(stack) != 0:
             v = stack.pop()
-            res = v + res
+            res = v + res'''
             
-        return res
+        return ''.join(stack)
