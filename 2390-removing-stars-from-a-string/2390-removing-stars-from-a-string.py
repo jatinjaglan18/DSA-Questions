@@ -8,8 +8,11 @@ class Solution:
             else:
                 stack.append(i)
            
-        string = ''
+        '''string = ''
         for i in stack:
             string += i
             
-        return string
+        return string'''
+        
+    
+        return ''.join(stack)
