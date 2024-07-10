@@ -12,15 +12,14 @@ class Solution:
             head.next = None
             return head
         
-        slow = head
-        fast = head
-        while fast != None and fast.next != None:
-            fast = fast.next.next
-            if fast == None or fast.next == None:
-                slow.next = slow.next.next
+        p1 = head
+        p2 = head
+        
+        while p2 != None and p2.next != None:
+            p2 = p2.next.next
+            if p2 == None or p2.next == None:
+                p1.next = p1.next.next
+            p1 = p1.next
                 
-            else:  
-                slow = slow.next
-            
         return head
         
