@@ -15,13 +15,9 @@ class Solution:
             val = temp1.val+temp2.val+c
             c = val // 10
             val = val % 10
-            
-            
             new = ListNode(val)
-
             temp.next = new
             temp = new
-            
             temp1 = temp1.next
             temp2 = temp2.next
             
@@ -29,8 +25,6 @@ class Solution:
             val = temp1.val+c
             c = val // 10
             val = val % 10
-            
-            
             new = ListNode(val)
             temp.next = new
             temp = new
@@ -46,8 +40,6 @@ class Solution:
             temp.next = new
             temp = new
             temp2 = temp2.next
-            
-            
             
         if c != 0:
             new = ListNode(1)
