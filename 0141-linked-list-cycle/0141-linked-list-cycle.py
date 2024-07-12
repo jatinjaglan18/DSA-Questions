@@ -6,7 +6,7 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        d = {}
+        '''d = {}
         while head != None:
             if head in d.keys():
                 return True
@@ -14,4 +14,14 @@ class Solution:
                 d[head] = head
             head = head.next
         else:
-            return False
+            return False'''
+        fast = head
+        while fast and fast.next:
+            fast = fast.next.next
+            if head == fast:
+                return True
+            head = head.next
+            
+        return False
+            
+            
