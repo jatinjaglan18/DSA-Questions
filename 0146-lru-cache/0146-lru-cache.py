@@ -8,26 +8,25 @@ class LRUCache:
 
     def get(self, key: int) -> int:
         if key in self.d:
-            self.l.remove(key)
-            self.l.append(key)
+            v = self.d[key]
+            self.d.pop(key)
+            self.d[key] = v
             return self.d[key]
         else:
             return -1
         
     def put(self, key: int, value: int) -> None:
         if key in self.d.keys():
-            self.l.remove(key)
-            self.l.append(key)
+            self.d.pop(key)
             self.d[key] = value
         
         elif key not in self.d.keys() and len(self.d) < self.size:
-            self.l.append(key)
             self.d[key] = value
         
         else:
-            k = self.l.pop(0)
-            del self.d[k]
-            self.l.append(key)
+            for i in self.d.keys():
+                del self.d[i]
+                break
             self.d[key] = value
         
         
