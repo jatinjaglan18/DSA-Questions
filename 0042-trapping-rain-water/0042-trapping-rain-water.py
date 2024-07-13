@@ -1,7 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         
-        max_left = []
+        '''max_left = []
         m_l = 0
         for i in range(len(height)) :
             if height[i] > m_l:
@@ -28,7 +28,35 @@ class Solution:
             if val > 0 :
                 count+=val
             
+        return count'''
+        l = 0
+        m_l = 0
+        m_r = 0
+        r = len(height)-1
+        
+        count = 0
+        
+        while l < r:
+            if height[l] < height[r]:
+                if height[l] > m_l:
+                    m_l = height[l]  
+                val = m_l - height[l]
+                if val > 0:
+                    count += val
+                l += 1
+                
+            else:
+                if height[r] > m_r:
+                    m_r = height[r]
+                val = m_r - height[r]
+                if val > 0:
+                    count += val
+                r -= 1
+
+                
         return count
+            
+            
         
             
             
