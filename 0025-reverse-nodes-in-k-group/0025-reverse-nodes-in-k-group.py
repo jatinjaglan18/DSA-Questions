@@ -18,7 +18,7 @@ class Solution:
             temp.next = prev
             prev = temp
             temp = nxt
-            
+        
         head.next = self.reverseKGroup(temp,k)
         return prev
             
