@@ -1,7 +1,16 @@
+def balance(stack,o_b):
+    if len(stack) == 0 :
+        return False
+    elif stack[-1] == o_b:
+        stack.pop()
+        return
+    else:
+        return False
+        
 class Solution:
     def isValid(self, s: str) -> bool:
         
-        stack = []
+        '''stack = []
         for i in s:
             if i in '(,[,{':
                 stack.append(i)
@@ -37,6 +46,29 @@ class Solution:
         if len(stack) == 0:
             return True
         else:
-            False
+            False'''
+        
+        stack = []
+        for i in s:
+            if i in '([{':
+                stack.append(i)
+            elif i == ')':
+                if balance(stack,'(') == False:
+                    return False
+                    
+            elif i == ']':
+                if balance(stack,'[') == False:
+                    return False
+                
+            elif i == '}':
+                if balance(stack,'{') == False:
+                    return False
+                
+        if stack:
+            return False
+        else:
+            return True
+                
+        
                 
         
