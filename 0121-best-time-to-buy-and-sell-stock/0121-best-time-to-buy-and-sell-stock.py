@@ -1,6 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        stack = [0]
+        '''stack = [0]
         nge = [len(prices)] * len(prices)
         for i in range(len(prices)):
             while prices[i] > prices[stack[-1]]:
@@ -12,7 +12,6 @@ class Solution:
             else:
                 stack.append(i)
         
-        print(nge)
         profit = 0
         for i in range(len(nge)):
             j = nge[i]
@@ -20,8 +19,17 @@ class Solution:
                 p = prices[j]-prices[i]
                 if p > profit:
                     profit = p    
-                j = nge[j]
-        print(profit)
+                j = nge[j]'''
+        
+        
+        profit = 0
+        buy = prices[0]
+        for i in prices:
+            if i < buy:
+                buy = i
+            elif i - buy > profit:
+                profit = i - buy
+                
             
         return profit
             
