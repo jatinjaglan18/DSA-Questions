@@ -3,7 +3,7 @@ class Solution:
         l = 0
         h = len(nums)-1
     
-        while l <= h:
+        while l < h:
             m = (h+l)//2
             if nums[m] < nums[h]:
                 h = m
@@ -11,4 +11,4 @@ class Solution:
                 l = m + 1
                 
                 
-        return nums[m]
+        return nums[l]
