@@ -1,7 +1,7 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         nums = self.merge(nums1,nums2)
-        print(nums)
+        
         if (len(nums1) + len(nums2)) % 2 == 0:
             return (nums[-1] + nums[-2]) / 2
         else:
