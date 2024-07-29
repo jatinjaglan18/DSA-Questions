@@ -9,10 +9,13 @@ def good(node,high):
     if node == None:
         return 0
     high = max(high, node.val)
+    l = good(node.left,high)
+    r = good(node.right,high)
+    
     if high <= node.val:
-        return 1 + good(node.left,high) + good(node.right,high)
+        return 1 + l + r
     else:
-        return good(node.left,high) + good(node.right,high)
+        return l + r
         
         
 class Solution:
