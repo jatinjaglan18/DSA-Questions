@@ -10,9 +10,9 @@ class Solution:
             return []
         arr = []
         mq = [root]
-        cq = []
+        #cq = []
         
-        while len(mq) != 0 or len(cq) != 0:
+        '''while len(mq) != 0 or len(cq) != 0:
             v = mq.pop(0)
             if v.left != None:
                 cq.append(v.left)
@@ -22,7 +22,20 @@ class Solution:
             if len(mq) == 0:
                 arr.append(v.val)
                 mq = cq
-                cq = []
+                cq = []'''
+        
+        while mq:
+            s = len(mq)
+            for i in range(s):
+                v = mq.pop(0)
+                if i == s-1:
+                    arr.append(v.val)
+                
+                if v.left != None:
+                    mq.append(v.left)
+                if v.right != None:
+                    mq.append(v.right)
+        
     
         return arr
         
