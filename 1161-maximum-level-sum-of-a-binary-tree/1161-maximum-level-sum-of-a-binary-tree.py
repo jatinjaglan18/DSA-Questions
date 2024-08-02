@@ -12,11 +12,11 @@ class Solution:
         level_sum = 0
         level = 1
         res = 1
-        mq = []
-        cq = []
+        mq = deque()
+        cq = deque()
         mq.append(root)
         while len(mq) != 0 or len(cq) != 0:
-            v = mq.pop(0)
+            v = mq.popleft()
             level_sum += v.val
             
             if v.left != None:
@@ -26,7 +26,7 @@ class Solution:
                 
             if len(mq) == 0:
                 mq = cq
-                cq = []
+                cq = deque()
                 
                 if level_sum > max_sum:
                     max_sum = level_sum
