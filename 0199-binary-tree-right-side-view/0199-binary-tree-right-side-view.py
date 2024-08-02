@@ -24,18 +24,6 @@ class Solution:
                 mq = cq
                 cq = []
         
-        '''while mq:
-            s = len(mq)
-            for i in range(s):
-                v = mq.pop(0)
-                if i == s-1:
-                    arr.append(v.val)
-                
-                if v.left != None:
-                    mq.append(v.left)
-                if v.right != None:
-                    mq.append(v.right)'''
-        
     
         return arr
         
