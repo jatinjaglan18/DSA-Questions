@@ -8,6 +8,7 @@ class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if root == None:
             return []
+        
         arr = []
         mq = [root]
         cq = []
