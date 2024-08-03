@@ -21,7 +21,8 @@ class Solution:
 
             if root.left and root.right:
                 temp = root.right
-                while temp.left: temp = temp.left
+                while temp.left: 
+                    temp = temp.left
                 root.val = temp.val
                 root.right = self.deleteNode(root.right, root.val)
         
