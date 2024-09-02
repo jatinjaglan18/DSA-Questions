@@ -15,22 +15,7 @@ class Solution:
         if not q:
             return -1
         
-        time = -1
-        '''while q:
-            size = len(q)
-            while size :
-                val = q.popleft()
-                r = val[0]
-                c = val[1]
-                size -= 1
-
-                for dr,dc in [(-1,0),(0,1),(1,0),(0,-1)]:
-                    nr = r + dr
-                    nc = c + dc
-                    if 0 <= nr < len(grid) and 0 <= nc < len(grid[0]) and grid[nr][nc] == 1:
-                        grid[nr][nc] = 2
-                        q.append([nr,nc])
-                        count -= 1'''
+        time = 0
         while q:
             val = q.popleft()
             r = val[0]
@@ -38,8 +23,7 @@ class Solution:
             t = val[2]
             time = t
             
-            
-            
+    
             for dr,dc in [(-1,0),(0,1),(1,0),(0,-1)]:
                 nr = r + dr
                 nc = c + dc
