@@ -9,7 +9,7 @@ class Solution:
         self.flag = True
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         
-        if not p and not q:
+        if p == None and q == None:
             return True
         
         if p != None and q != None and p.val==q.val:
