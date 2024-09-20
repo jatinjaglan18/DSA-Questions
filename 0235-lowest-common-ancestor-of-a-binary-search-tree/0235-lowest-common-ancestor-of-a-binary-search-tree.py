@@ -8,7 +8,19 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         
-        p_root = self.node_to_root(root,p)
+        if root.val > p.val and root.val > q.val:
+            return self.lowestCommonAncestor(root.left,p,q)
+        elif root.val < p.val and root.val < q.val:
+            return self.lowestCommonAncestor(root.right,p,q)
+        else:
+            return root
+        
+        
+        
+        
+        
+        
+        '''p_root = self.node_to_root(root,p)
         q_root = self.node_to_root(root,q)
         
         i = len(p_root) - 1
@@ -32,7 +44,7 @@ class Solution:
             arr.append(root)
             return arr
         else:
-            return [node]
+            return [node]'''
         
         
         
