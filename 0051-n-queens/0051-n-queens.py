@@ -18,7 +18,17 @@ class Solution:
             
         def printNqueens(board,row):
             if row == len(board):
-                answer(board)
+                ans = []
+                #answer(board)
+                for i in board:
+                    res = ''
+                    for j in i:
+                        if j == 0:
+                            res+='.'
+                        else:
+                            res+='Q'
+                    ans.append(res)
+                result.append(ans)
                 return
             
             for col in range(n):
@@ -44,6 +54,7 @@ class Solution:
                     return False
                 i -= 1
                 j -= 1
+            
             #daigonal
             i = row-1
             j = col+1
