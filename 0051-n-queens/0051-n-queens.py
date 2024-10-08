@@ -3,23 +3,10 @@ class Solution:
         
         board = [[0 for j in range(n)] for i in range(n)]
         result = []
-        
-        def answer(board):
-            ans = []
-            for i in board:
-                res = ''
-                for j in i:
-                    if j == 0:
-                        res+='.'
-                    else:
-                        res+='Q'
-                ans.append(res)
-            result.append(ans)
             
         def printNqueens(board,row):
             if row == len(board):
                 ans = []
-                #answer(board)
                 for i in board:
                     res = ''
                     for j in i:
