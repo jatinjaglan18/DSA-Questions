@@ -1,18 +1,18 @@
-from queue import PriorityQueue
+import heapq
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         
-        distances = PriorityQueue()
+        distances = []
         for i in points:
             a = 0
             for j in i:
                 a += j*j
             
-            distances.put([a] + i)
+            heapq.heappush(distances, [a] + i)
         
         res = []
         for i in range(k):
-            ans = distances.get()
+            ans = heapq.heappop(distances)
             res.append(ans[1:])
         
         return res
