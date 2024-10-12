@@ -1,15 +1,16 @@
-from queue import PriorityQueue 
+import heapq
+
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        pq = PriorityQueue()
+        heap = []
         for i in nums:
-            if pq.qsize() < k:
-                pq.put(i)
-            else:
-                val = pq.get()
-                if val < i:
-                    pq.put(i)
-                else:
-                    pq.put(val)
-                    
-        return pq.get()
+            if len(heap) < k:
+                heapq.heappush(heap,i)
+            elif len(heap) == k and heap[0] < i:
+                heapq.heappop(heap)
+                heapq.heappush(heap,i)
+                
+        return heap[0]
+        
+        
+        
