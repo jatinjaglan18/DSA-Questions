@@ -1,13 +1,13 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        oinc = nums[0]
-        oexc = 0
         
-        for i in range(1,len(nums)):
-            ninc = oexc + nums[i]
-            nexc = max(oinc,oexc)
+        dp = [0 for i in range(len(nums))]
+        
+        dp[0] = nums[0]
+        for i in range(1, len(nums)):
+            if i == 1:
+                dp[i] = max(dp[i-1],nums[i])
+            else:
+                dp[i] = max(dp[i-1], dp[i-2] + nums[i])
             
-            oinc = ninc
-            oexc = nexc
-            
-        return max(oinc,oexc)
+        return dp[-1]
