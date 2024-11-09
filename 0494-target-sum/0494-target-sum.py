@@ -1,7 +1,7 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         
-        memo = {}
+        '''memo = {}
         
         def backtrack(i, total):
             if i == len(nums):
@@ -20,4 +20,18 @@ class Solution:
             
             return memo[(i,total)]
         
-        return backtrack(0,0)
+        return backtrack(0,0)'''
+        
+        if (sum(nums) + target) % 2 != 0 or sum(nums) + target < 0:
+            return 0
+
+        subset_sum = (sum(nums) + target) // 2
+        
+        dp = [0] * (subset_sum + 1)
+        dp[0] = 1
+        
+        for num in nums:
+            for i in range(subset_sum, num - 1, -1):
+                dp[i] += dp[i - num]
+        return dp[subset_sum]
+                
