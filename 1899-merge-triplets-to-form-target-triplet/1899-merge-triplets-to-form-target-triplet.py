@@ -1,13 +1,14 @@
 class Solution:
     def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
-        res = set()
+        temp = [False, False, False]
+        x,y,z = target
+        for a,b,c in triplets:
+            if a==x and b<=y and c<=z:
+                temp[0] = True
+            if b==y and a<=x and c<=z:
+                temp[1] = True
+            if c==z and a<=x and b<=y:
+                temp[2] = True
+            if all(temp): return True
         
-        for t in triplets:
-            if t[0] > target[0] or t[1] > target[1] or t[2] > target[2]:
-                continue
-            
-            for i,v in enumerate(t):
-                if v == target[i]:
-                    res.add(i)
-            
-        return len(res) == 3
+        return all(temp)
