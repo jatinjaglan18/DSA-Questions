@@ -3,12 +3,8 @@ class Solution:
         i = 0
         j = 0 
         while i < len(str1) and j < len(str2):
-            if str1[i] == 'z':
-                nc = 'a'
-            else:
-                nc = chr(ord(str1[i]) + 1)
-            print(nc)
-            if str1[i] == str2[j] or  nc == str2[j]:
+            
+            if str1[i] == str2[j] or (ord(str2[j]) - ord(str1[i]))%26 <= 1:
                 j += 1
             if j == len(str2):
                 return True
