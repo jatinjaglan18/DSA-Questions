@@ -6,7 +6,7 @@ class Solution:
             
             if str1[i] == str2[j] or (ord(str2[j]) - ord(str1[i]))%26 <= 1:
                 j += 1
-            if j == len(str2):
-                return True
+                if j == len(str2):
+                    return True
             i += 1
         return False
