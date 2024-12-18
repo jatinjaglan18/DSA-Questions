@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0274-h-index) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2868-continuous-subarrays) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
