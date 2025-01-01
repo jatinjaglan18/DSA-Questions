@@ -1,11 +1,13 @@
 class Solution:
     def maxScore(self, s: str) -> int:
-        total_zeros = s.count('0')
-        ans, zeros, n = -1, 0, len(s)
-        for i in range(1, n):
-            if s[i - 1] == '0':
-                zeros += 1
-                total_zeros -= 1
-            ans = max(ans, zeros + (n - total_zeros - i))
+        left = ''
+        right = ''
+        ans = 0 
+        for i in range(1, len(s)):
+            left = s[:i]
+            right = s[i:]
+            l = left.count('0')
+            r=right.count('1')
+            c = l+r
+            ans = max(ans, c)
         return ans
-        
