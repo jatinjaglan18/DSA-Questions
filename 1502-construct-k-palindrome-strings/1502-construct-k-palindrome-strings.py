@@ -8,7 +8,6 @@ class Solution:
         freq = {}
         for i in s:
             freq[i]=1+freq.get(i,0)
-        #print(freq)
         count = 0
         for i in freq.keys():
             if freq[i] % 2 != 0:
