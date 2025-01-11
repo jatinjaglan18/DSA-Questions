@@ -1,7 +1,5 @@
 class Solution:
     def canConstruct(self, s: str, k: int) -> bool:
-        if k == len(s):
-            return True
         if len(s) < k:
             return False
         
@@ -12,7 +10,5 @@ class Solution:
         for i in freq.keys():
             if freq[i] % 2 != 0:
                 count += 1
-        if count > k:
-            return False
-        return True
+        return count <= k
         
