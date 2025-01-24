@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [2145-grid-game](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2145-grid-game) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
