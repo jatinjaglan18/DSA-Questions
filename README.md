@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
