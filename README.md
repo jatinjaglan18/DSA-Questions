@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0274-h-index) |
+| [1364-tuple-with-same-product](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
