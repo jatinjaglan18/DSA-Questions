@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
