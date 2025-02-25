@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0494-target-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0494-target-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2562-count-ways-to-build-good-strings) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
