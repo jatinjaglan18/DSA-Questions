@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
