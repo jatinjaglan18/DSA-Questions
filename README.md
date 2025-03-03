@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
