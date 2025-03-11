@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0952-word-subsets](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0952-word-subsets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2868-continuous-subarrays](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
