@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
