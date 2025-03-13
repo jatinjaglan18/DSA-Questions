@@ -1,29 +1,18 @@
 class Solution:
-    def isZeroArray(self, nums: List[int], queries: List[List[int]], k: int) -> bool:
-        n = len(nums)
-        prefix = [0] * (n + 1)
-
-        for i in range(k):
-            l, r, val = queries[i]
-            prefix[l] += val
-            if r + 1 < n:
-                prefix[r + 1] -= val
-
-        for i in range(1, n + 1):
-            prefix[i] += prefix[i - 1]
-
-        return all(prefix[i] >= nums[i] for i in range(n))
-
     def minZeroArray(self, nums: List[int], queries: List[List[int]]) -> int:
-        low, high, n = 0, len(queries), len(queries)
-        ans = n + 1
-
-        while low <= high:
-            mid = (low + high) // 2
-            if self.isZeroArray(nums, queries, mid):
-                ans = mid
-                high = mid - 1
-            else:
-                low = mid + 1
-
-        return -1 if ans > n else ans
+        n = len(nums)
+        cnt = [0]*(n + 1)
+        current_sum = 0
+        k = 0
+        for i in range(n):
+            while (current_sum + cnt[i] < nums[i]):
+                if k == len(queries):
+                    return -1
+                l, r, val = queries[k]
+                k += 1
+                if r < i:
+                    continue
+                cnt[max(l,i)] += val
+                cnt[r+1] -= val
+            current_sum += cnt[i]
+        return k
