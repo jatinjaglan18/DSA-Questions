@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0854-making-a-large-island) |
 | [2145-grid-game](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
