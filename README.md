@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2868-continuous-subarrays) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0854-making-a-large-island) |
 | [2145-grid-game](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
@@ -364,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
