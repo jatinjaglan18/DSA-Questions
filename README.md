@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jatinjaglan18/DSA-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
