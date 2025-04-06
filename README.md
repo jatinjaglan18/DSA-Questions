@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0274-h-index) |
+| [0368-largest-divisible-subset](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0189-rotate-array) |
+| [0368-largest-divisible-subset](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0274-h-index) |
+| [0368-largest-divisible-subset](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jatinjaglan18/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0368-largest-divisible-subset](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/0494-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jatinjaglan18/DSA-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
